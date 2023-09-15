@@ -1,0 +1,3 @@
+Game of Coins is an app that allows users to search for real-time information about various cryptocurrencies. The website is designed to provide users with up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies.
+
+The app is connected to the coingecko API, which is a popular source of data for cryptocurrency information. Coingecko provides valuable data on cryptocurrencies, including their current price, historical price data, trading volume, market cap, and other important metrics.
