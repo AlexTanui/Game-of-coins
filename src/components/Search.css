@@ -8,8 +8,32 @@
     margin-bottom: 20px;
 }
 h2 {
-    margin-top: 50px;
+    margin-top: 200px;
     margin-bottom: 20px;
+}
+#add_delete_btn{
+    background-color: #c83cb9;
+    color: #ccc;
+    font-weight: 200;
+    width: 55px;
+    border: solid 1px white;
+    border-radius: 5px;
+    cursor: pointer;
+    &:hover {
+            @include transition;
+            background: white;
+            border: solid 1px white;
+            color: #c83cb9;
+        }
+}
+h3{
+    font-family: 'HelveticaNeue-light', 'Helvetica Neue Light', 'Helvetica Neue'
+            Helvetica, Aerial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    font-size: 5em;
+    color: #c83cb9;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 /* Style the search input */
 .search-input {
